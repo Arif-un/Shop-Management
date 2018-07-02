@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="src/mysql-connector-java-5.1.26_2.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="src/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="src/rs2xml.jar"/>
+	<classpathentry kind="lib" path="src/seaglasslookandfeel-0.1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/jide-synthetica.jar"/>
+	<classpathentry kind="lib" path="src/View/All_panel/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="src/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="src/synthetica.jar"/>
+	<classpathentry kind="lib" path="src/JSplashScreen_my_use.jar"/>
+	<classpathentry kind="lib" path="src/napkinlaf-alpha001.jar"/>
+	<classpathentry kind="lib" path="src/seaglass-demo.jar"/>
+	<classpathentry kind="lib" path="src/syntheticaBlackEye.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
