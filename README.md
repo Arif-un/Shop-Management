@@ -44,7 +44,7 @@ Login Panel
 Dashboard
 ![dashboard](https://github.com/Arif-un/Shop-Management/blob/master/Screneshot/Dashboard.PNG?raw=true "dashboard")
 
-Bill 
+Bill
 ![Bill](https://github.com/Arif-un/Shop-Management/blob/master/Screneshot/bill.PNG?raw=true "Bill")
 
 CRUD
