@@ -50,3 +50,9 @@ Bill
 CRUD
 ![CRUD](https://github.com/Arif-un/Shop-Management/blob/master/Screneshot/Capture.PNG?raw=true "CRUD")
 
+
+------------
+
+###License
+This Project is released under the [MIT License](https://opensource.org/licenses/MIT)
+
